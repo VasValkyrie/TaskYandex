@@ -1,4 +1,4 @@
-﻿$axure.loadDocument({
+$axure.loadDocument({
   "configuration":{
     "showPageNotes":true,
     "showPageNoteNames":false,
@@ -15,11 +15,7 @@
     "rootNodes":[{
         "pageName":"Catalog",
         "type":"Wireframe",
-        "url":"catalog.html",
-        "children":[{
-            "pageName":"Product",
-            "type":"Wireframe",
-            "url":"product.html"}]}]},
+        "url":"catalog.html"}]},
   "globalVariables":{
     "onloadvariable":""},
   "defaultAdaptiveView":{
